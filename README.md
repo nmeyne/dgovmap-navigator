@@ -9,7 +9,8 @@ The business unit hierarchies (sales, engineering) are usually in tension with t
 
 It is harder and harder these days for a hierarchy to organise in response to external 'chaos', so some of the more successful ones have chosen instead to design and organise as 'ecosystems' or 'multi-sided platforms': Facebook, AirBnB, Amazon, Alibaba and so on. These are still essentially centralised or at best, federated organisations, with a platform owner / designer at the heart, governing a proprietary strategy and control over the value chain.  See https://www.valuewalk.com/2017/11/trebor-scholz-uber-worked-underpaid-talks-google/
 
-Co-operative, collaborative 'flat' organisations and networks shift from a hierarchical system of ownership to a collectively owned enterprise or purposeful project.  Work is done and value added in a self-organising, peer-to-peer network, and fairly rewarded. A wide range of patterns or tools is used to organise and decide. An excellent presentation on the advantages and challenges of collective organisation is provided here, by Rich and Nati of thehum.org:  https://www.youtube.com/watch?v=7P2ryGEP5W8&t=2s
+Co-operative, collaborative 'flat' organisations and networks shift from a hierarchical system of ownership to a collectively owned enterprise or purposeful project.  Work is done and value added in a self-organising, peer-to-peer network, and fairly rewarded. A wide range of patterns or tools is used to organise and decide. An excellent presentation on the advantages and challenges of collective organisation is provided here, by Rich and Nati of thehum.org:
+https://www.youtube.com/watch?v=7P2ryGEP5W8&t=2s
 Presentation deck: https://docs.google.com/presentation/d/1qo44fPTMVijBS42McIhoYtJWvPp1kUsA_WblsRFwCxg/edit?usp=sharing
 
 It is not the purpose of this project to create further material on the advantages of collaborative, co-operative, peer-to-peer working.  It is instead aimed at mitigating some of the disadvantages (see slide 5):
@@ -44,3 +45,4 @@ The PoC excludes particular decision-making processes, organisational or behavio
 
 The PoC assumes maximisation of decentralised, autonomous organisation and diversity - and only a minumum necessary level of co-ordination - within the effective and efficient delivery of the Co-op goals.  The centralised vulnerability of implicit structure and rules understood by the few is reduced by making the implicit explicit, and open sharing with all.  We will experiment and trial to strike the right balance.
 
+The PoC will use the Electron framework.  Opportunities to meaningfully use Rholang / Smart contracts or otherwise persist data in an Rchain structure will be considered at a later stage.
